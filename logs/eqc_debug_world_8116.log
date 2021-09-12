@@ -1,0 +1,84 @@
+---------------------------------------------
+[09.09. - 16:49:10] Starting Log: logs/eqc_debug_world_8116.log
+
+[09.09. - 16:49:10] [World ] EQC Alpha Server - World Version : 6044224
+
+[09.09. - 16:49:10] [SharedMem] Loading Shared Memory Core...
+[09.09. - 16:49:11] [World ] Loading guild ranks...
+[09.09. - 16:49:11] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 16:49:11] [Common] Done.
+
+[09.09. - 16:49:11] [World ] Loading boats data...
+[09.09. - 16:49:11] [Common] Done.
+
+[09.09. - 16:49:11] [World ] Starting world network...
+[09.09. - 16:49:11] [Common] Done.
+
+[09.09. - 16:49:11] [World ] Truncating active_accounts table...
+[09.09. - 16:49:11] [Common] Done.
+
+[09.09. - 16:49:11] [World ] World server listening on Address : '68.231.69.235' and port : 9000
+
+[09.09. - 16:52:25] [Client] New client from 68.231.69.235:60414
+
+[09.09. - 16:52:42] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:52:42] [Common] SUCCESS
+[09.09. - 16:53:25] [Client] New client from 68.231.69.235:53124
+
+[09.09. - 16:53:26] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:53:26] [Common] SUCCESS
+[09.09. - 16:55:56] [Client] New client from 68.231.69.235:50759
+
+[09.09. - 16:55:58] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:55:58] [Common] SUCCESS
+[09.09. - 16:56:15] [Client] New client from 68.231.69.235:55077
+
+[09.09. - 16:56:16] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:56:16] [Common] SUCCESS
+[09.09. - 16:57:20] [Client] New client from 68.231.69.235:57966
+
+[09.09. - 16:57:22] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:57:22] [Common] SUCCESS
+[09.09. - 16:58:47] [Client] New client from 68.231.69.235:53021
+
+[09.09. - 16:58:48] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 16:58:48] [Common] SUCCESS
+[09.09. - 16:59:46] [Client] New client from 68.231.69.235:62928
+
+[09.09. - 17:02:33] [Client] New client from 98.232.40.137:62956
+
+[09.09. - 17:09:03] [Client] New client from 68.231.69.235:50440
+
+[09.09. - 17:09:19] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 17:09:19] [Common] SUCCESS
+[09.09. - 17:10:11] [Client] New client from 68.231.69.235:50449
+
+[09.09. - 17:12:30] [Client] New client from 68.231.69.235:58616
+
+[09.09. - 17:12:49] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 17:12:49] [Common] SUCCESS
+[09.09. - 17:13:49] [Client] New client from 68.231.69.235:59930
+
+[09.09. - 17:13:51] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 17:13:51] [Common] SUCCESS
+[09.09. - 17:16:24] [Client] New client from 68.231.69.235:52857
+
+[09.09. - 17:16:27] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 17:16:27] [Common] SUCCESS
+[09.09. - 17:20:53] [Client] New client from 68.231.69.235:61561
+
+[09.09. - 17:20:54] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 17:20:54] [Common] SUCCESS
+[09.09. - 17:21:58] [Client] New client from 68.231.69.235:55550
+

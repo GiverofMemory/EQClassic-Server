@@ -1,0 +1,30 @@
+---------------------------------------------
+[09.09. - 04:12:54] Starting Log: logs/eqc_debug_zone_12360.log
+
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:54] [SharedMem] Loading Shared Memory Core...
+[09.09. - 04:12:54] [Common] Done.
+
+[09.09. - 04:12:54] [Spell] Loading SP DAT...
+
+[09.09. - 04:12:54] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 04:12:54] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:54] [ Zone ] Loading faction data...
+
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:54] [ Zone ] Loading faction lists...
+
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:54] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:55] [ Zone ] Entering sleep mode.
+

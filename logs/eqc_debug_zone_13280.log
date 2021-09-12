@@ -1,0 +1,115 @@
+---------------------------------------------
+[09.09. - 16:49:15] Starting Log: logs/eqc_debug_zone_13280.log
+
+[09.09. - 16:49:15] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 16:49:15] [SharedMem] Loading Shared Memory Core...
+[09.09. - 16:49:15] [Common] Done.
+
+[09.09. - 16:49:15] [Spell] Loading SP DAT...
+
+[09.09. - 16:49:15] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 16:49:15] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction data...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction lists...
+
+[09.09. - 16:49:15] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 16:49:15] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 16:49:15] [ Zone ] Entering sleep mode.
+
+[09.09. - 16:55:58] [ Zone ] Zone set to static, we won't sleep
+
+[09.09. - 16:55:58] [ Zone ] Loading roam boxes...
+
+[09.09. - 16:55:58] [  DB  ] LOADING ZONE LINES FROM ecommons
+[09.09. - 16:55:58] [  DB  ] Zoning range set to 10
+[09.09. - 16:55:58] [  DB  ] Adding zone line x:4950.000000 y:800000.000000 z:800000.000000 to:commons heading:62
+[09.09. - 16:55:58] [  DB  ] Zoning range set to 10
+[09.09. - 16:55:58] [  DB  ] Adding zone line x:-1400.000000 y:0.000000 z:-51.340000 to:freportw heading:190
+[09.09. - 16:55:58] [  DB  ] Zoning range set to 30
+[09.09. - 16:55:58] [  DB  ] Adding zone line x:605.000000 y:1510.000000 z:-18.410000 to:nektulos heading:7
+[09.09. - 16:55:58] [  DB  ] Zoning range set to 40
+[09.09. - 16:55:58] [  DB  ] Adding zone line x:-53.419998 y:-2444.600098 z:3.130000 to:nro heading:158
+[09.09. - 16:55:58] [ Zone ] Loading objects...
+
+[09.09. - 16:55:58] [ Zone ] Zone server 'ecommons' now listening on port 1001
+
+[09.09. - 16:55:58] [ Zone ] Loading NPC's for 'ecommons'...
+
+[09.09. - 16:55:58] [Quests] NPC doesnt have a quest file.
+[09.09. - 16:55:59] [Client] New client from 68.231.69.235:50761
+
+[09.09. - 16:56:00] [Client] Login packet 1
+
+[09.09. - 16:56:00] [Client] Starting Debugging System for No name...
+
+[09.09. - 16:56:00] [Client] Login packet 2
+
+[09.09. - 16:56:00] [Client] Loaded playerprofile for Nature
+
+[09.09. - 16:56:04] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 16:56:04] [Client] Login packet 3
+
+[09.09. - 16:56:04] [Client] Zhdr request (Login 4)
+
+[09.09. - 16:56:04] [ Zone ] Sending doors one at a time.
+
+[09.09. - 16:56:05] [ Zone ] Sending objects one at a time.
+
+[09.09. - 16:56:05] [Client] Enterzone complete (Login 5)
+
+[09.09. - 16:56:07] [Client] Got a player save request (OP_Save)
+
+[09.09. - 16:56:12] [Client] Client::TeleportPC(zone name = commons, x = -1477.000000, y = 23.500000, z = -55.218750, heading = 62.000000)
+[09.09. - 16:56:12] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = commons, x = -1477.000000, y = 23.000000, z = -55.000000, heading = 0.000000)
+[09.09. - 16:56:14] [Client] Received Player Save (5521)
+[09.09. - 16:56:14] [Client] Saving Drunkess Value 0
+[09.09. - 16:56:15] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:56:15] [Client] Client disconnected : Nature
+
+[09.09. - 16:56:15] [Client] Dropping client from ip 68.231.69.235:50761
+
+[09.09. - 16:57:23] [Client] New client from 68.231.69.235:59209
+
+[09.09. - 16:57:23] [Client] Login packet 1
+
+[09.09. - 16:57:23] [Client] Starting Debugging System for No name...
+
+[09.09. - 16:57:24] [Client] Login packet 2
+
+[09.09. - 16:57:24] [Client] Loaded playerprofile for Nature
+
+[09.09. - 16:57:28] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 16:57:28] [Client] Login packet 3
+
+[09.09. - 16:57:28] [Client] Zhdr request (Login 4)
+
+[09.09. - 16:57:28] [ Zone ] Sending doors one at a time.
+
+[09.09. - 16:57:28] [ Zone ] Sending objects one at a time.
+
+[09.09. - 16:57:28] [Client] Enterzone complete (Login 5)
+
+[09.09. - 16:57:30] [Client] Got a player save request (OP_Save)
+
+[09.09. - 16:58:32] [Quests] Quest File 'quests/ecommons/a_puma.pl' exists: 0
+[09.09. - 16:58:32] [Quests] NPC doesnt have a quest file.
+[09.09. - 16:58:44] [Client] Received Player Death OP
+[09.09. - 16:58:44] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = qeytoqrg, x = -46.000000, y = 4850.000000, z = 4.000000, heading = 0.000000)
+[09.09. - 16:58:46] [Client] Received Player Save (5421)
+[09.09. - 16:58:46] [Client] Saving Drunkess Value 0
+[09.09. - 16:58:47] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:58:47] [Client] Client disconnected : Nature
+
+[09.09. - 16:58:47] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:58:47] [Client] Dropping client from ip 68.231.69.235:59209
+

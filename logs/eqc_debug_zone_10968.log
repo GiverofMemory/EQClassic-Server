@@ -1,0 +1,190 @@
+---------------------------------------------
+[09.09. - 04:59:20] Starting Log: logs/eqc_debug_zone_10968.log
+
+[09.09. - 04:59:20] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 04:59:20] [SharedMem] Loading Shared Memory Core...
+[09.09. - 04:59:20] [Common] Done.
+
+[09.09. - 04:59:20] [Spell] Loading SP DAT...
+
+[09.09. - 04:59:20] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 04:59:20] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 04:59:20] [ Zone ] Loading faction data...
+
+[09.09. - 04:59:20] [ Zone ] Loading faction lists...
+
+[09.09. - 04:59:21] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 04:59:22] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 04:59:22] [ Zone ] Entering sleep mode.
+
+[09.09. - 05:00:08] [ Zone ] Shutdown Delay set to 300 seconds
+
+[09.09. - 05:00:08] [ Zone ] Loading roam boxes...
+
+[09.09. - 05:00:09] [  DB  ] LOADING ZONE LINES FROM freportw
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-716.000000 y:149.000000 z:-11.000000 to:freportw heading:0
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-652.000000 y:96.000000 z:-39.000000 to:freportw heading:0
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 15
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-98.720001 y:282.910004 z:-10.870000 to:freportn heading:0
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 15
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-658.030029 y:324.630005 z:-24.870001 to:freportn heading:13
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-927.039978 y:-86.099998 z:-24.870001 to:freporte heading:129
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-623.700012 y:-420.869995 z:-24.870001 to:freporte heading:66
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 580
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:750.000000 y:0.000000 z:-24.870001 to:ecommons heading:66
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-272.000000 y:1585.000000 z:2.000000 to:freportn heading:0
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-586.000000 y:719.000000 z:-20.000000 to:freportn heading:0
+[09.09. - 05:00:09] [  DB  ] Zoning range set to 30
+[09.09. - 05:00:09] [  DB  ] Adding zone line x:-1632.000000 y:-740.000000 z:-94.000000 to:freporte heading:0
+[09.09. - 05:00:09] [ Zone ] Loading objects...
+
+[09.09. - 05:00:09] [ Zone ] Zone server 'freportw' now listening on port 1003
+
+[09.09. - 05:00:09] [ Zone ] Loading NPC's for 'freportw'...
+
+[09.09. - 05:00:09] [Client] New client from 68.231.69.235:50062
+
+[09.09. - 05:00:09] [Quests] NPC doesnt have a quest file.
+[09.09. - 05:00:09] [Client] Login packet 1
+
+[09.09. - 05:00:09] [Client] Starting Debugging System for No name...
+
+[09.09. - 05:00:11] [Client] Login packet 2
+
+[09.09. - 05:00:11] [Client] Loaded playerprofile for Assdfasd
+
+[09.09. - 05:00:20] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 05:00:20] [Client] Login packet 3
+
+[09.09. - 05:00:20] [Client] Zhdr request (Login 4)
+
+[09.09. - 05:00:20] [ Zone ] Sending doors one at a time.
+
+[09.09. - 05:00:21] [ Zone ] Sending objects one at a time.
+
+[09.09. - 05:00:21] [Client] Enterzone complete (Login 5)
+
+[09.09. - 05:00:23] [Client] Got a player save request (OP_Save)
+
+[09.09. - 05:00:36] [Quests] Quest File 'quests/freportw/a_decaying_skeleton.pl' exists: 0
+[09.09. - 05:00:36] [Quests] NPC doesnt have a quest file.
+[09.09. - 05:00:55] [Quests] Quest File 'quests/freportw/a_decaying_skeleton.pl' exists: 0
+[09.09. - 05:00:55] [Quests] NPC doesnt have a quest file.
+[09.09. - 05:01:44] [Client] Received Player Death OP
+[09.09. - 05:01:44] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = freportw, x = 359.000000, y = 247.000000, z = -22.000000, heading = 0.000000)
+[09.09. - 05:01:46] [Client] Received Player Save (5421)
+[09.09. - 05:01:46] [Client] Saving Drunkess Value 0
+[09.09. - 05:01:46] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 05:01:46] [Client] Client disconnected : Assdfasd
+
+[09.09. - 05:01:46] [Client] Dropping client from ip 68.231.69.235:50062
+
+[09.09. - 05:01:49] [Client] New client from 68.231.69.235:55503
+
+[09.09. - 05:01:49] [Client] Login packet 1
+
+[09.09. - 05:01:49] [Client] Starting Debugging System for No name...
+
+[09.09. - 05:01:49] [Client] Login packet 2
+
+[09.09. - 05:01:49] [Client] Loaded playerprofile for Assdfasd
+
+[09.09. - 05:01:58] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 05:01:58] [Client] Login packet 3
+
+[09.09. - 05:01:58] [Client] Zhdr request (Login 4)
+
+[09.09. - 05:01:58] [ Zone ] Sending doors one at a time.
+
+[09.09. - 05:01:58] [ Zone ] Sending objects one at a time.
+
+[09.09. - 05:01:59] [Client] Enterzone complete (Login 5)
+
+[09.09. - 05:02:01] [Client] Got a player save request (OP_Save)
+
+[09.09. - 05:02:17] [Quests] Quest File 'quests/freportw/Orc_Centurion.pl' exists: 0
+[09.09. - 05:02:17] [Quests] NPC doesnt have a quest file.
+[09.09. - 05:02:26] [Quests] Quest File 'quests/freportw/Guard_Kroon.pl' exists: 0
+[09.09. - 05:02:26] [Quests] NPC doesnt have a quest file.
+[09.09. - 05:03:08] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 05:03:08] [Client] Client disconnected : Assdfasd
+
+[09.09. - 05:03:08] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 05:03:08] [Client] Dropping client from ip 68.231.69.235:55503
+
+[09.09. - 05:03:10] [Client] New client from 68.231.69.235:61868
+
+[09.09. - 05:03:10] [Client] Login packet 1
+
+[09.09. - 05:03:10] [Client] Starting Debugging System for No name...
+
+[09.09. - 05:03:10] [Client] Login packet 2
+
+[09.09. - 05:03:10] [Client] Loaded playerprofile for Assdfasd
+
+[09.09. - 05:03:18] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 05:03:18] [Client] Login packet 3
+
+[09.09. - 05:03:19] [Client] Zhdr request (Login 4)
+
+[09.09. - 05:03:19] [ Zone ] Sending doors one at a time.
+
+[09.09. - 05:03:19] [ Zone ] Sending objects one at a time.
+
+[09.09. - 05:03:19] [Client] Enterzone complete (Login 5)
+
+[09.09. - 05:03:21] [Client] Got a player save request (OP_Save)
+
+[09.09. - 05:04:09] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 05:04:09] [Client] Client disconnected : Assdfasd
+
+[09.09. - 05:04:09] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 05:04:09] [Client] Dropping client from ip 68.231.69.235:61868
+
+[09.09. - 05:05:08] [ Zone ] Automatic shutdown
+
+[09.09. - 05:05:08] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 05:05:08] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+
+---------------------------------------------
+[09.09. - 10:15:17] Starting Log: logs/eqc_debug_zone_10968.log
+
+[09.09. - 10:15:17] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:15:17] [SharedMem] Loading Shared Memory Core...
+[09.09. - 10:15:17] [Common] Done.
+
+[09.09. - 10:15:17] [Spell] Loading SP DAT...
+
+[09.09. - 10:15:17] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 10:15:17] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 10:15:17] [ Zone ] Loading faction data...
+
+[09.09. - 10:15:17] [ Zone ] Loading faction lists...
+
+[09.09. - 10:15:17] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 10:15:19] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 10:15:19] [ Zone ] Entering sleep mode.
+

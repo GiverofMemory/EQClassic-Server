@@ -1,0 +1,61 @@
+---------------------------------------------
+[09.09. - 04:20:45] Starting Log: logs/eqc_debug_zone_8856.log
+
+[09.09. - 04:20:45] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 04:20:45] [SharedMem] Loading Shared Memory Core...
+[09.09. - 04:20:45] [Common] Done.
+
+[09.09. - 04:20:45] [Spell] Loading SP DAT...
+
+[09.09. - 04:20:45] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 04:20:45] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 04:20:45] [ Zone ] Loading faction data...
+
+[09.09. - 04:20:45] [ Zone ] Loading faction lists...
+
+[09.09. - 04:20:45] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 04:20:46] [World ] Connected to worldserver: 127.0.0.1:9000
+
+[09.09. - 04:20:46] [ Zone ] Entering sleep mode.
+
+[09.09. - 04:23:19] [ Zone ] Shutdown Delay set to 300 seconds
+
+[09.09. - 04:23:19] [ Zone ] Loading roam boxes...
+
+[09.09. - 04:23:19] [  DB  ] LOADING ZONE LINES FROM arena
+[09.09. - 04:23:19] [  DB  ] Zoning range set to 20
+[09.09. - 04:23:19] [  DB  ] Adding zone line x:-870.659973 y:-29.379999 z:10.410000 to:lakerathe heading:191
+[09.09. - 04:23:19] [ Zone ] Loading objects...
+
+[09.09. - 04:23:19] [ Zone ] Zone server 'arena' now listening on port 1000
+
+[09.09. - 04:23:19] [ Zone ] Loading NPC's for 'arena'...
+
+[09.09. - 04:23:19] [Quests] NPC doesnt have a quest file.
+[09.09. - 04:23:19] [Client] New client from 127.0.0.1:64114
+
+[09.09. - 04:23:19] [Client] Login packet 1
+
+[09.09. - 04:23:19] [Client] Starting Debugging System for No name...
+
+[09.09. - 04:23:20] [Client] Login packet 2
+
+[09.09. - 04:23:20] [Client] Loaded playerprofile for Aaldyienie
+
+[09.09. - 04:23:35] [Client] Client disconnected (!pm.CA): ˜ï¿½Aaldyienie
+
+[09.09. - 04:23:35] [Client] Client disconnected (!pm.CA): ˜ï¿½Aaldyienie
+
+[09.09. - 04:23:35] [Client] Client disconnected : ˜ï¿½Aaldyienie
+
+[09.09. - 04:23:35] [Client] Dropping client from ip 127.0.0.1:64114
+
+[09.09. - 04:28:19] [ Zone ] Automatic shutdown
+
+[09.09. - 04:28:19] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 04:28:19] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+

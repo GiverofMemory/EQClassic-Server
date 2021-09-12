@@ -1,0 +1,22 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  timer.cpp
+  TCPConnection.cpp
+  packet_functions.cpp
+  packet_dump.cpp
+  Mutex.cpp
+  MiscFunctions.cpp
+  md5.cpp
+  EQNetwork.cpp
+  debug.cpp
+  DBMemLeak.cpp
+  dbcore.cpp
+  database.cpp
+  crc32.cpp
+  net.cpp
+  LWorld.cpp
+  logindatabase.cpp
+  EQCrypto.cpp
+  client.cpp
+  Generating Code...
+client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Login.vcxproj -> C:\Users\MD\Desktop\EQClassic\LS\Login\..\..\Build\Debug\Login.exe

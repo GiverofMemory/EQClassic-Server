@@ -1,0 +1,8 @@
+---------------------------------------------
+[09.09. - 10:23:17] Starting Log: logs/eqc_debug_10180.log
+
+[09.09. - 10:23:17] [SharedMem] Loading items... 
+[09.09. - 10:23:17] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:23:18] [SharedMem] Item loading finished.
+[09.09. - 10:23:18] [SharedMem] SharedMemory.dll loaded. First init: 1
+

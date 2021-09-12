@@ -1,0 +1,54 @@
+---------------------------------------------
+[09.09. - 10:31:50] Starting Log: logs/eqc_debug_world_5656.log
+
+[09.09. - 10:31:50] [World ] EQC Alpha Server - World Version : 6044224
+
+[09.09. - 10:31:50] [SharedMem] Loading Shared Memory Core...
+[09.09. - 10:31:51] [World ] Loading guild ranks...
+[09.09. - 10:31:51] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:31:51] [Common] Done.
+
+[09.09. - 10:31:51] [World ] Loading boats data...
+[09.09. - 10:31:51] [Common] Done.
+
+[09.09. - 10:31:51] [World ] Starting world network...
+[09.09. - 10:31:51] [Common] Done.
+
+[09.09. - 10:31:51] [World ] Truncating active_accounts table...
+[09.09. - 10:31:51] [Common] Done.
+
+[09.09. - 10:31:51] [World ] World server listening on Address : '68.231.69.235' and port : 9000
+
+[09.09. - 10:33:41] [Client] New client from 68.231.69.235:62305
+
+[09.09. - 10:34:53] [World ] Name approval request for: Nature race: Human class: Druid...
+[09.09. - 10:34:53] [Common] SUCCESS!
+
+[09.09. - 10:34:55] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:34:55] [Common] SUCCESS
+[09.09. - 10:34:58] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:34:58] [Common] SUCCESS
+[09.09. - 10:36:46] [Client] New client from 68.231.69.235:54417
+
+[09.09. - 10:36:48] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:36:48] [Common] SUCCESS
+[09.09. - 10:37:41] [Client] New client from 68.231.69.235:54594
+
+[09.09. - 10:37:43] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:37:43] [Common] SUCCESS
+[09.09. - 10:39:44] [Client] New client from 68.231.69.235:62699
+
+[09.09. - 10:39:45] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:39:45] [Common] SUCCESS
+[09.09. - 10:42:56] [Client] New client from 68.231.69.235:49369
+
+[09.09. - 10:42:58] [World ] Validating char creation info for 'Nature'...
+
+[09.09. - 10:42:58] [Common] SUCCESS
+[09.09. - 10:43:45] [Client] New client from 68.231.69.235:49801
+

@@ -1,0 +1,83 @@
+---------------------------------------------
+[09.09. - 16:49:15] Starting Log: logs/eqc_debug_zone_8980.log
+
+[09.09. - 16:49:15] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 16:49:15] [SharedMem] Loading Shared Memory Core...
+[09.09. - 16:49:15] [Common] Done.
+
+[09.09. - 16:49:15] [Spell] Loading SP DAT...
+
+[09.09. - 16:49:15] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 16:49:15] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction data...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction lists...
+
+[09.09. - 16:49:15] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 16:49:15] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 16:49:15] [ Zone ] Entering sleep mode.
+
+[09.09. - 16:53:26] [ Zone ] Shutdown Delay set to 1800 seconds
+
+[09.09. - 16:53:26] [ Zone ] Loading roam boxes...
+
+[09.09. - 16:53:27] [  DB  ] LOADING ZONE LINES FROM gfaydark
+[09.09. - 16:53:27] [  DB  ] Zoning range set to 35
+[09.09. - 16:53:27] [  DB  ] Adding zone line x:-2630.000000 y:-1928.000000 z:23.000000 to:felwithea heading:128
+[09.09. - 16:53:27] [  DB  ] Zoning range set to 35
+[09.09. - 16:53:27] [  DB  ] Adding zone line x:-1091.270020 y:-2659.459961 z:3.130000 to:lfaydark heading:0
+[09.09. - 16:53:27] [  DB  ] Zoning range set to 35
+[09.09. - 16:53:27] [  DB  ] Adding zone line x:2652.000000 y:-1640.000000 z:3.130000 to:butcher heading:0
+[09.09. - 16:53:27] [  DB  ] Zoning range set to 35
+[09.09. - 16:53:27] [  DB  ] Adding zone line x:-56.000000 y:2634.000000 z:18.969999 to:crushbone heading:3
+[09.09. - 16:53:27] [ Zone ] Loading objects...
+
+[09.09. - 16:53:27] [ Zone ] Zone server 'gfaydark' now listening on port 1004
+
+[09.09. - 16:53:27] [ Zone ] Loading NPC's for 'gfaydark'...
+
+[09.09. - 16:53:27] [Quests] NPC doesnt have a quest file.
+[09.09. - 16:53:27] [Client] New client from 68.231.69.235:53126
+
+[09.09. - 16:53:30] [Client] Login packet 1
+
+[09.09. - 16:53:30] [Client] Starting Debugging System for No name...
+
+[09.09. - 16:53:30] [Client] Login packet 2
+
+[09.09. - 16:53:30] [Client] Loaded playerprofile for Nature
+
+[09.09. - 16:53:38] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 16:53:38] [Client] Login packet 3
+
+[09.09. - 16:53:38] [Client] Zhdr request (Login 4)
+
+[09.09. - 16:53:38] [ Zone ] Sending doors one at a time.
+
+[09.09. - 16:53:39] [ Zone ] Sending objects one at a time.
+
+[09.09. - 16:53:39] [Client] Enterzone complete (Login 5)
+
+[09.09. - 16:53:41] [Client] Got a player save request (OP_Save)
+
+[09.09. - 16:55:54] [Client] Client::TeleportPC(zone name = ecommons, x = 4947.000000, y = 8.000000, z = -74.000000, heading = 0.000000)
+[09.09. - 16:55:54] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = ecommons, x = 4947.000000, y = 8.000000, z = -74.000000, heading = 0.000000)
+[09.09. - 16:55:56] [Client] Received Player Save (5521)
+[09.09. - 16:55:56] [Client] Saving Drunkess Value 0
+[09.09. - 16:55:56] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:55:56] [Client] Client disconnected : Nature
+
+[09.09. - 16:55:56] [Client] Dropping client from ip 68.231.69.235:53126
+
+[09.09. - 17:23:26] [ Zone ] Automatic shutdown
+
+[09.09. - 17:23:26] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 17:23:26] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+

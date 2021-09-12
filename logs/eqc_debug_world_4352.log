@@ -1,0 +1,34 @@
+---------------------------------------------
+[09.09. - 05:12:25] Starting Log: logs/eqc_debug_world_4352.log
+
+[09.09. - 05:12:25] [World ] EQC Alpha Server - World Version : 6044224
+
+[09.09. - 05:12:25] [SharedMem] Loading Shared Memory Core...
+[09.09. - 05:12:26] [World ] Loading guild ranks...
+[09.09. - 05:12:26] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 05:12:26] [Common] Done.
+
+[09.09. - 05:12:26] [World ] Loading boats data...
+[09.09. - 05:12:26] [Common] Done.
+
+[09.09. - 05:12:26] [World ] Starting world network...
+[09.09. - 05:12:26] [Common] Done.
+
+[09.09. - 05:12:26] [World ] Truncating active_accounts table...
+[09.09. - 05:12:26] [Common] Done.
+
+[09.09. - 05:12:26] [World ] World server listening on Address : '68.231.69.235' and port : 9000
+
+[09.09. - 05:13:17] [Client] New client from 68.231.69.235:58720
+
+[09.09. - 05:13:37] [World ] Validating char creation info for '˜ï¿½Aaldyienie'...
+
+[09.09. - 05:13:37] [World ] FAIL : '˜ï¿½Aaldyienie' has an invalid race/class combo!
+
+[09.09. - 05:14:34] [Client] New client from 68.231.69.235:65387
+
+[09.09. - 05:14:54] [World ] Validating char creation info for 'Assdfasd'...
+
+[09.09. - 05:14:54] [Common] SUCCESS
+[09.09. - 05:15:55] [Client] New client from 68.231.69.235:49185
+

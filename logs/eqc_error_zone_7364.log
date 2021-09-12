@@ -1,0 +1,5 @@
+---------------------------------------------
+[09.09. - 16:58:48] Starting Log: logs/eqc_error_zone_7364.log
+
+[09.09. - 16:58:48] [Client] command_add() - Command 'goto' is a duplicate - check command.cpp.
+[09.09. - 16:58:48] [ Zone ] Command loading FAILED

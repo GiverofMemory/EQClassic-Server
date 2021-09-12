@@ -1,0 +1,85 @@
+---------------------------------------------
+[09.09. - 16:49:15] Starting Log: logs/eqc_debug_zone_13256.log
+
+[09.09. - 16:49:15] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 16:49:15] [SharedMem] Loading Shared Memory Core...
+[09.09. - 16:49:15] [Common] Done.
+
+[09.09. - 16:49:15] [Spell] Loading SP DAT...
+
+[09.09. - 16:49:15] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 16:49:15] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction data...
+
+[09.09. - 16:49:15] [ Zone ] Loading faction lists...
+
+[09.09. - 16:49:15] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 16:49:15] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 16:49:15] [ Zone ] Entering sleep mode.
+
+[09.09. - 16:56:16] [ Zone ] Shutdown Delay set to 1800 seconds
+
+[09.09. - 16:56:16] [ Zone ] Loading roam boxes...
+
+[09.09. - 16:56:16] [  DB  ] LOADING ZONE LINES FROM commons
+[09.09. - 16:56:16] [  DB  ] Zoning range set to 10
+[09.09. - 16:56:16] [  DB  ] Adding zone line x:4103.919922 y:917.979980 z:-48.970001 to:kithicor heading:142
+[09.09. - 16:56:16] [  DB  ] Zoning range set to 10
+[09.09. - 16:56:16] [  DB  ] Adding zone line x:-1500.000000 y:0.000000 z:0.000000 to:ecommons heading:198
+[09.09. - 16:56:16] [  DB  ] Zoning range set to 5
+[09.09. - 16:56:16] [  DB  ] Adding zone line x:595.989990 y:-1149.359985 z:-39.160000 to:befallen heading:192
+[09.09. - 16:56:16] [ Zone ] Loading objects...
+
+[09.09. - 16:56:16] [ Zone ] Zone server 'commons' now listening on port 1002
+
+[09.09. - 16:56:16] [ Zone ] Loading NPC's for 'commons'...
+
+[09.09. - 16:56:16] [Quests] NPC doesnt have a quest file.
+[09.09. - 16:56:17] [Client] New client from 68.231.69.235:55079
+
+[09.09. - 16:56:17] [Client] Login packet 1
+
+[09.09. - 16:56:17] [Client] Starting Debugging System for No name...
+
+[09.09. - 16:56:17] [Client] Login packet 2
+
+[09.09. - 16:56:17] [Client] Loaded playerprofile for Nature
+
+[09.09. - 16:56:21] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 16:56:21] [Client] Login packet 3
+
+[09.09. - 16:56:21] [Client] Zhdr request (Login 4)
+
+[09.09. - 16:56:21] [ Zone ] Sending doors one at a time.
+
+[09.09. - 16:56:21] [ Zone ] Sending objects one at a time.
+
+[09.09. - 16:56:21] [Client] Enterzone complete (Login 5)
+
+[09.09. - 16:56:24] [Client] Got a player save request (OP_Save)
+
+[09.09. - 16:56:54] [Quests] Quest File 'quests/commons/a_rattlesnake.pl' exists: 0
+[09.09. - 16:56:54] [Quests] NPC doesnt have a quest file.
+[09.09. - 16:57:18] [Client] Client::TeleportPC(zone name = ecommons, x = 4940.000000, y = -387.500000, z = -60.127029, heading = 198.000000)
+[09.09. - 16:57:18] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = ecommons, x = 4940.000000, y = -387.000000, z = -60.000000, heading = 0.000000)
+[09.09. - 16:57:20] [Client] Received Player Save (5521)
+[09.09. - 16:57:20] [Client] Saving Drunkess Value 0
+[09.09. - 16:57:20] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:57:20] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 16:57:20] [Client] Client disconnected : Nature
+
+[09.09. - 16:57:20] [Client] Dropping client from ip 68.231.69.235:55079
+
+[09.09. - 17:26:16] [ Zone ] Automatic shutdown
+
+[09.09. - 17:26:16] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 17:26:16] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+

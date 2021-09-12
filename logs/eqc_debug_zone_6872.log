@@ -1,0 +1,79 @@
+---------------------------------------------
+[09.09. - 10:31:56] Starting Log: logs/eqc_debug_zone_6872.log
+
+[09.09. - 10:31:56] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:31:56] [SharedMem] Loading Shared Memory Core...
+[09.09. - 10:31:56] [Common] Done.
+
+[09.09. - 10:31:56] [Spell] Loading SP DAT...
+
+[09.09. - 10:31:56] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 10:31:56] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 10:31:56] [ Zone ] Loading faction data...
+
+[09.09. - 10:31:56] [ Zone ] Loading faction lists...
+
+[09.09. - 10:31:56] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 10:31:56] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 10:31:56] [ Zone ] Entering sleep mode.
+
+[09.09. - 10:34:58] [ Zone ] Shutdown Delay set to 300 seconds
+
+[09.09. - 10:34:58] [ Zone ] Loading roam boxes...
+
+[09.09. - 10:34:58] [  DB  ] LOADING ZONE LINES FROM qrg
+[09.09. - 10:34:58] [  DB  ] Zoning range set to 25
+[09.09. - 10:34:58] [  DB  ] Adding zone line x:220.389999 y:-577.719971 z:3.130000 to:qeytoqrg heading:80
+[09.09. - 10:34:58] [ Zone ] Loading objects...
+
+[09.09. - 10:34:58] [ Zone ] Zone server 'qrg' now listening on port 1000
+
+[09.09. - 10:34:58] [ Zone ] Loading NPC's for 'qrg'...
+
+[09.09. - 10:34:58] [Quests] NPC doesnt have a quest file.
+[09.09. - 10:34:58] [Client] New client from 68.231.69.235:51094
+
+[09.09. - 10:34:58] [Client] Login packet 1
+
+[09.09. - 10:34:58] [Client] Starting Debugging System for No name...
+
+[09.09. - 10:34:58] [Client] Login packet 2
+
+[09.09. - 10:34:58] [Client] Loaded playerprofile for Nature
+
+[09.09. - 10:35:01] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 10:35:01] [Client] Login packet 3
+
+[09.09. - 10:35:01] [Client] Zhdr request (Login 4)
+
+[09.09. - 10:35:01] [ Zone ] Sending doors one at a time.
+
+[09.09. - 10:35:01] [ Zone ] Sending objects one at a time.
+
+[09.09. - 10:35:02] [Client] Enterzone complete (Login 5)
+
+[09.09. - 10:35:03] [Client] Got a player save request (OP_Save)
+
+[09.09. - 10:36:44] [Client] Client::TeleportPC(zone name = qeytoqrg, x = 159.020004, y = 5182.680176, z = -3.470000, heading = 80.000000)
+[09.09. - 10:36:44] [Client] Client::ProcessOP_ZoneChange(Zoning with soft coded values zone name = qeytoqrg, x = 159.000000, y = 5182.000000, z = -3.000000, heading = 0.000000)
+[09.09. - 10:36:46] [Client] Received Player Save (5521)
+[09.09. - 10:36:46] [Client] Saving Drunkess Value 0
+[09.09. - 10:36:46] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 10:36:46] [Client] Client disconnected (!pm.CA): Nature
+
+[09.09. - 10:36:46] [Client] Client disconnected : Nature
+
+[09.09. - 10:36:46] [Client] Dropping client from ip 68.231.69.235:51094
+
+[09.09. - 10:39:58] [ Zone ] Automatic shutdown
+
+[09.09. - 10:39:58] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 10:39:58] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+

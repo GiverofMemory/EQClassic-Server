@@ -1,0 +1,8 @@
+---------------------------------------------
+[09.09. - 04:12:54] Starting Log: logs/eqc_debug_9628.log
+
+[09.09. - 04:12:54] [SharedMem] Loading items... 
+[09.09. - 04:12:54] [  DB  ] Error #2006: MySQL server has gone away
+
+[09.09. - 04:12:54] [SharedMem] SharedMemory.dll loaded. First init: 1
+

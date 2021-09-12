@@ -1,0 +1,42 @@
+---------------------------------------------
+[09.09. - 04:20:44] Starting Log: logs/eqc_debug_world_4016.log
+
+[09.09. - 04:20:44] [World ] EQC Alpha Server - World Version : 6044224
+
+[09.09. - 04:20:44] [SharedMem] Loading Shared Memory Core...
+[09.09. - 04:20:45] [World ] Loading guild ranks...
+[09.09. - 04:20:45] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 04:20:45] [Common] Done.
+
+[09.09. - 04:20:45] [World ] Loading boats data...
+[09.09. - 04:20:45] [Common] Done.
+
+[09.09. - 04:20:45] [World ] Starting world network...
+[09.09. - 04:20:45] [Common] Done.
+
+[09.09. - 04:20:45] [World ] Truncating active_accounts table...
+[09.09. - 04:20:45] [Common] Done.
+
+[09.09. - 04:20:45] [World ] World server listening on Address : '127.0.0.1' and port : 9000
+
+[09.09. - 04:23:01] [Client] New client from 127.0.0.1:62280
+
+[09.09. - 04:23:19] [World ] Validating char creation info for '˜ï¿½Aaldyienie'...
+
+[09.09. - 04:23:19] [World ] FAIL : '˜ï¿½Aaldyienie' has an invalid race/class combo!
+
+[09.09. - 04:24:24] [Client] New client from 127.0.0.1:53201
+
+[09.09. - 04:25:37] [World ] Name approval request for: Assdfasd race: Human class: Cleric...
+[09.09. - 04:25:37] [Common] SUCCESS!
+
+[09.09. - 04:25:39] [World ] Validating char creation info for 'Assdfasd'...
+
+[09.09. - 04:25:39] [Common] SUCCESS
+[09.09. - 04:25:43] [World ] Validating char creation info for 'Assdfasd'...
+
+[09.09. - 04:25:43] [Common] SUCCESS
+[09.09. - 04:28:59] [Client] New client from 127.0.0.1:61691
+
+[09.09. - 04:29:28] [Client] New client from 127.0.0.1:61700
+

@@ -1,0 +1,28 @@
+---------------------------------------------
+[09.09. - 10:23:17] Starting Log: logs/eqc_debug_world_10180.log
+
+[09.09. - 10:23:17] [World ] EQC Alpha Server - World Version : 6044224
+
+[09.09. - 10:23:17] [SharedMem] Loading Shared Memory Core...
+[09.09. - 10:23:18] [World ] Loading guild ranks...
+[09.09. - 10:23:18] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:23:18] [Common] Done.
+
+[09.09. - 10:23:18] [World ] Loading boats data...
+[09.09. - 10:23:18] [Common] Done.
+
+[09.09. - 10:23:18] [World ] Starting world network...
+[09.09. - 10:23:18] [Common] Done.
+
+[09.09. - 10:23:18] [World ] Truncating active_accounts table...
+[09.09. - 10:23:18] [Common] Done.
+
+[09.09. - 10:23:18] [World ] World server listening on Address : '68.231.69.235' and port : 9000
+
+[09.09. - 10:24:49] [Client] New client from 68.231.69.235:51446
+
+[09.09. - 10:25:07] [World ] Validating char creation info for 'Assdfasd'...
+
+[09.09. - 10:25:07] [Common] SUCCESS
+[09.09. - 10:26:34] [Client] New client from 68.231.69.235:51099
+

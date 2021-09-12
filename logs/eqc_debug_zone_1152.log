@@ -1,0 +1,91 @@
+---------------------------------------------
+[09.09. - 10:23:26] Starting Log: logs/eqc_debug_zone_1152.log
+
+[09.09. - 10:23:26] [  DB  ] Using database 'eqclassic' at '127.0.0.1'
+[09.09. - 10:23:26] [SharedMem] Loading Shared Memory Core...
+[09.09. - 10:23:26] [Common] Done.
+
+[09.09. - 10:23:26] [Spell] Loading SP DAT...
+
+[09.09. - 10:23:26] [Spell] Spells loaded from 'spdat.eff'
+
+[09.09. - 10:23:26] [ Zone ] Loading guild and guild ranks...
+
+[09.09. - 10:23:26] [ Zone ] Loading faction data...
+
+[09.09. - 10:23:26] [ Zone ] Loading faction lists...
+
+[09.09. - 10:23:26] [ Zone ] Loading Corpse decay Timers...
+
+[09.09. - 10:23:26] [World ] Connected to worldserver: 68.231.69.235:9000
+
+[09.09. - 10:23:26] [ Zone ] Entering sleep mode.
+
+[09.09. - 10:25:07] [ Zone ] Shutdown Delay set to 300 seconds
+
+[09.09. - 10:25:07] [ Zone ] Loading roam boxes...
+
+[09.09. - 10:25:08] [  DB  ] LOADING ZONE LINES FROM freportw
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-716.000000 y:149.000000 z:-11.000000 to:freportw heading:0
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-652.000000 y:96.000000 z:-39.000000 to:freportw heading:0
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 15
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-98.720001 y:282.910004 z:-10.870000 to:freportn heading:0
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 15
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-658.030029 y:324.630005 z:-24.870001 to:freportn heading:13
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-927.039978 y:-86.099998 z:-24.870001 to:freporte heading:129
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-623.700012 y:-420.869995 z:-24.870001 to:freporte heading:66
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 580
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:750.000000 y:0.000000 z:-24.870001 to:ecommons heading:66
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-272.000000 y:1585.000000 z:2.000000 to:freportn heading:0
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-586.000000 y:719.000000 z:-20.000000 to:freportn heading:0
+[09.09. - 10:25:08] [  DB  ] Zoning range set to 30
+[09.09. - 10:25:08] [  DB  ] Adding zone line x:-1632.000000 y:-740.000000 z:-94.000000 to:freporte heading:0
+[09.09. - 10:25:08] [ Zone ] Loading objects...
+
+[09.09. - 10:25:08] [ Zone ] Zone server 'freportw' now listening on port 1000
+
+[09.09. - 10:25:08] [ Zone ] Loading NPC's for 'freportw'...
+
+[09.09. - 10:25:08] [Client] New client from 68.231.69.235:49401
+
+[09.09. - 10:25:08] [Quests] NPC doesnt have a quest file.
+[09.09. - 10:25:08] [Client] Login packet 1
+
+[09.09. - 10:25:08] [Client] Starting Debugging System for No name...
+
+[09.09. - 10:25:10] [Client] Login packet 2
+
+[09.09. - 10:25:10] [Client] Loaded playerprofile for Assdfasd
+
+[09.09. - 10:25:18] [Client] ready for part 3 of Process_ClientConnection. Waiting for opcode 0x5d20
+
+[09.09. - 10:25:18] [Client] Login packet 3
+
+[09.09. - 10:25:18] [Client] Zhdr request (Login 4)
+
+[09.09. - 10:25:18] [ Zone ] Sending doors one at a time.
+
+[09.09. - 10:25:19] [ Zone ] Sending objects one at a time.
+
+[09.09. - 10:25:19] [Client] Enterzone complete (Login 5)
+
+[09.09. - 10:25:21] [Client] Got a player save request (OP_Save)
+
+[09.09. - 10:26:34] [Client] Client disconnected (!pm.CA): Assdfasd
+
+[09.09. - 10:26:34] [Client] Client disconnected : Assdfasd
+
+[09.09. - 10:26:34] [Client] Dropping client from ip 68.231.69.235:49401
+
+[09.09. - 10:30:07] [ Zone ] Automatic shutdown
+
+[09.09. - 10:30:07] [ Zone ] ----SERVER SHUTDOWN----
+
+[09.09. - 10:30:07] [ Zone ] Zone shutdown, going to sleep! ZzzZzz
+
