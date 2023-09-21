@@ -1,3 +1,5 @@
+May move to [Bitbucket](https://bitbucket.org/naturevault/) or [Gitlab](https://gitlab.com/giverofmemory/) due to mandatory 2FA here.
+
 DOWNLOAD FILES: http://newagesoldier.com/myfiles/openeqc
 
 _SERVER HOSTING_
